@@ -1,0 +1,14 @@
+/Users/danielchang/src/Test/Test/bin/Debug/netstandard2.0/Test.deps.json
+/Users/danielchang/src/Test/Test/bin/Debug/netstandard2.0/Test.dll
+/Users/danielchang/src/Test/Test/bin/Debug/netstandard2.0/ref/Test.dll
+/Users/danielchang/src/Test/Test/bin/Debug/netstandard2.0/Test.pdb
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.csproj.AssemblyReference.cache
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfoInputs.cache
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.AssemblyInfo.cs
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.csproj.CoreCompileInputs.cache
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.dll
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/ref/Test.dll
+/Users/danielchang/src/Test/Test/obj/Debug/netstandard2.0/Test.pdb
